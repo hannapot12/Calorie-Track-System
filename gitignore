@@ -1,0 +1,5 @@
+git init
+git add .
+git commit -m "Initial commit: CalorieTrack System"
+git remote add origin https://github.com/YOUR-USERNAME/calorie-track-system.git
+git push -u origin main
