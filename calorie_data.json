@@ -1,0 +1,38 @@
+{
+  "meals": [
+    {
+      "id": 1,
+      "user_name": "hanna",
+      "date": "2025-12-10",
+      "meal_name": "branch",
+      "calories": 257.5
+    },
+    {
+      "id": 2,
+      "user_name": "hanna",
+      "date": "2025-12-10",
+      "meal_name": "dinner",
+      "calories": 737.5
+    },
+    {
+      "id": 3,
+      "user_name": "hanna",
+      "date": "2025-12-14",
+      "meal_name": "dinner",
+      "calories": 750.0
+    },
+    {
+      "id": 4,
+      "user_name": "hanna",
+      "date": "2025-12-14",
+      "meal_name": "brunch",
+      "calories": 878.5
+    }
+  ],
+  "users": {
+    "hanna": {
+      "recommended_calories": 1543,
+      "last_login": "2025-12-10 22:22:35"
+    }
+  }
+}
